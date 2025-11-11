@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "671f2e94a7fa43a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74bb1c05ebd17e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33abff56f149802d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-10"
+            }
+          },
+          {
+            "id": "794a8e9acce03fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django REST Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Django REST Framework"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af0aee42324b3dc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "855eb031fb57442b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72eb37df9ce37170",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "fc34bcfded800d11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "0f6b461bad39b351",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "69982760527229c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b939e727f39ad825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb2f7920bd5403eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "build-in function/!Функция filter().md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for !Функция filter()"
+            }
+          },
+          {
+            "id": "8b16261192367f5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "build-in function/!Функция filter().md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from !Функция filter()"
+            }
+          },
+          {
+            "id": "3e0fac527019797d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f84bfbb2b71c8f7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "build-in function/!Функция filter().md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of !Функция filter()"
+            }
+          },
+          {
+            "id": "9472536f0078beae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "d637870ee511acc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "build-in function/!Функция filter().md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for !Функция filter()"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "794a8e9acce03fac",
+  "lastOpenFiles": [
+    "2025-07-10.md",
+    "Django REST Framework.md",
+    "Без названия 1.canvas",
+    "Redis/Команды Redis.md",
+    "не сделанно/!Django Chache.md",
+    "не сделанно/!class-based view.md",
+    "Артикли.md",
+    "Redis/Redis set commands with TTL parametrs.md",
+    "Redis/Redis.md",
+    "Simple.md",
+    "__2023-01-13__231353.png 2.webp",
+    "__2023-01-13__231709.png.webp",
+    "__2023-01-13__231353.png 1.webp",
+    "__2023-01-13__231353.png.webp",
+    "не сделанно/!как создать сайт.md",
+    "Git.md",
+    "сериализация.md",
+    "Django/USE_I18N.md",
+    "Django/To-do site_practic.md",
+    "Django/Filesystem caching.md",
+    "Django/Django Redis.md",
+    "Django/Django.md",
+    "Django/Database caching.md",
+    "Django/Сигналы.md",
+    "Django/Организиция.md",
+    "Django/!Django.md",
+    "Django/orm/ORM Django.md",
+    "Django/orm/Типы связи между моделями.md",
+    "Django/methods/!select_related и prefetch_related.md",
+    "Django/methods/Django objects methods.md",
+    "Django/methods/!! redirect, reverse.md",
+    "Без названия.canvas",
+    "Без названия",
+    "rus",
+    "Django/orm",
+    "Django/auth",
+    "Django/admin",
+    "Django/forms",
+    "Django/basic",
+    "Django/methods",
+    "Celery",
+    "architecture",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Cache/Снимок экрана 2024-07-04 143450.png",
+    "Cache/maxresdefault.jpg",
+    "Cache/Pasted image 20240817151711.png",
+    "Cache/Pasted image 20240709232439.png",
+    "Cache/Pasted image 20240709153954.png",
+    "Cache/Pasted image 20240709161636.png",
+    "Python/Untitled.canvas"
+  ]
+}

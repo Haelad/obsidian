@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "время": "datetime",
+    "дата создания": "date",
+    "Язык Программирование": "text"
+  }
+}
